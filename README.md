@@ -1,5 +1,7 @@
 # Counter-App
 Counter App using React.js and Tailwind Css
+![Uploading image.png…]()
+
 
 Step 1 - First open this file in Vscode 
 
